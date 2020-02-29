@@ -1,0 +1,15 @@
+L[C]: Are you sure you want to stop at this house?
+R[B]: Oh, don’t worry. I’m sure it’s just someone trying to spook us. *knock knock knock* Trick or treat!
+R...Hello?
+R*knock knock knock*
+N[Voice]: Come in!
+R[B]: If you’re trying to scare us, the house gave it away already. You come out here!
+N[Voice]: Oh, I wasn’t trying to scare you! I just can’t move because I’m, uh, sick. That’s right. Sick.
+R[B]: Sure...
+N[Voice]: If you want your candy, just come in and take as much as you want. I bought all the best ones, too. They’re to die for.
+R[B]: No scares?
+N[Voice]: No scares.
+R[B]: If you say so...
+N[Narrator]: [B] Reaches for the doorknob, and as soon as they touch it, the house begins to shake.
+N[Narrator]: The door then open all on its own, revealing a swirling blue portal inside.
+N[Narrator]: In just a moment, [B] gets sucked in!

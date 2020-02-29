@@ -1,0 +1,3 @@
+N[Narrator]: You and [C] try to run and get someone's help, but...
+N[Narrator]: With each step, the portal sucks you in more and more.
+N[Narrator]: Eventually you can't resist any longer, losing your footing and flying into the portal as well.

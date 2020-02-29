@@ -1,0 +1,20 @@
+N[Narrator]: You enter the dark cave, carefully climbing and jumping over obstacles inside it.
+N[Narrator]: For some reason you feel like something is watching you. However, when you turn to look, nothing is there.
+L[C]: Is anyone else getting the creeps?
+R[B]: No!
+R[B]: ...
+R[B]: Yeah.
+L[C]: Wait, look to the left. I think I see something!
+N[Narrator]: You find a small enclosure with light shining through the top.
+N[Narrator]: Rocks are toppled over and it looks like someone was here recently, but nobody is around right now.
+N[Narrator]: Then, laying there on the ground, you see a golden ring with a ruby in the center.
+L[C]: This has to be it! I can’t believe it. Magic, right here, in my hands.
+R[B]: [C]?
+L[C]: I knew we would find it. Now we can beat [D] for sure!
+R[B]: [C]!
+L[C]: What’s wrong?
+R[B]: Behind you!
+N[Narrator]: A huge shadow covers all three of you.
+N[Narrator]: First you see the sharp fangs, then the even sharper claws, and finally the fierce eyes staring at you.
+N[Narrator]: Approaching you on all fours, the beast steps into the moonlight and you can see it clearly.
+N[Narrator]: The werewolf appears, and he wants his treasure back!

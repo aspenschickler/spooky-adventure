@@ -1,0 +1,2 @@
+N[Narrator]: You decide to look around for a friendly face in this ghost town, and surely enough you find one.
+R[Ghost]: Boo!

@@ -1,0 +1,9 @@
+R[Ghost]: Around here, you’re either born with magic or you use the power of magic rings.
+R[Ghost]: Some find their rings so precious that they choose to bring it to their graves.
+R[Ghost]: The rings are rare, but I know a guy who had one, and he buried it next to him along with all other sorts of treasure.
+L[A]: He sounds amazing!
+R[Ghost]: He was kind of a jerk, actually. Anyway, if you want a piece of your own magic, the graveyard is where to go.
+L[A]: Thanks a million!
+N[Narrator]: You all exit the town and stand outside the gate. To your left, you see a dark forest.
+N[Narrator]: To your right, a trail leading to a graveyard.
+N[Narrator]: Which way do you go?

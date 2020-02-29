@@ -1,0 +1,24 @@
+L[A]: Hey, [C].
+R[C]: What?
+L[A]: Do you believe in magic?
+R[C]: Now’s not the time for jokes!
+L[A]: No, I’m serious. I hope you do, because we might have to try something crazy.
+N[Narrator]: The zombie rolls out of the coffin and inches closer and closer, cornering you all against the fence of the graveyard.
+N[Narrator]: But you’re not scared. You believe in magic, and you believe in yourself.
+N[Narrator]: Suddenly, sparks arise at your fingertips and flow through your whole body.
+N[Narrator]: Raising your hand high in the air, you let your emotions materialize as a red lightning bolt at the zombie.
+N[Narrator]: There is a huge flash, and the zombie is electrocuted. It shakes, stumbles, then falls to the floor.
+N[Zombie]: NGHAAA! HOW... LOSE?
+N[Zombie]: How... so... strong?
+N[Zombie]: Urghh... *thud*
+L[A]: That.
+L[A]: Was.
+L[A]: AWESOME!
+R[C]: Yeah it was! How did you even know how to use it?
+L[A]: I believed in myself, duh. That’s Magic 101.
+L[A]: More importantly, now we have what we need to beat [D]!
+R[C]: I bet they’ll be SHOCKED when they find out we have our own ring!
+L[A]: ...
+R[C]: Come on, I can see you smiling.
+L[A]: No you can’t! Follow me, let’s go to the castle.
+L[A]: We’re finishing this once and for all.

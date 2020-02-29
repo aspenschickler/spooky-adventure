@@ -1,0 +1,14 @@
+L[A]: You asked for it!
+N[Narrator]: You raise your hand and charge up your magic ring, which begins to glow a bright red.
+N[Narrator]: [D] starts to chant a spell of their own. Finally, you both attack.
+L[A]: Take this!
+R[D]: Begone!
+N[Narrator]: As much as you try, [D]'s magic is simply stronger than yours.
+N[Narrator]: The blasts connect, but their beam is pushing closer and close towards you. Is all hope lost?
+N[Narrator]: No. Suddenly, you get an idea.
+L[A]: The columns! If I can force [D] to knock one down, then maybe...
+R[D]: What are you mumbling about!
+L[A]: Nothing much - just this!
+N[Narrator]: You jump to the side and [D]'s magic beam hits the base of a column.
+N[Narrator]: It tilts, crackles, and finally topples down on top of them.
+R[D]: AAAH!

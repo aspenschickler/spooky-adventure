@@ -1,0 +1,15 @@
+N[Narrator]: Out of shock, you scream at the top of your lungs and faint immediately.
+R[B]: Did they just faint?
+L[C]: Now’s not the time to judge. We have to beat that zombie and save [A]!
+N[Narrator]: The zombie inches closer and closer, cornering [B] and [C] against the fence of the graveyard.
+N[Narrator]: With no other options, [B] grabs the ring from [A]’s hand and puts it on their own finger.
+N[Narrator]: Suddenly, sparks arise at [B]’s fingertip. The ruby ring glows red, then so does [B]’s whole body.
+N[Narrator]: Raising their hand high in the air, they fire a wicked lightning bolt with all of their energy.
+N[Narrator]: The zombie falls to the floor.
+R[B]: That.
+R[B]: Was.
+R[B]: AWESOME!
+L[C]: Yeah it was! How did you know how to use that thing?
+R[B]: How should I know? I guess I’m a natural at this magic thing!
+R[B]: Quick, let’s wake up [A] and get out of here!
+L[C]: On it! Next stop, the castle!

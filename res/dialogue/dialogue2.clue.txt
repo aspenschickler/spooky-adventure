@@ -1,0 +1,3 @@
+N[Narrator]: Investigating seems to be the best choice right now. Where would you find the most information?
+N[Narrator]: A tall building on the street corner reads “Library”. Bingo! You all step inside.
+R[Ghost (librarian)]: How can I help you?

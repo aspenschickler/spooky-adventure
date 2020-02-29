@@ -1,0 +1,8 @@
+L[Character 1]: Hello! Welcome to Zach's VN Game Engine!
+L[Character 1]: Your first question is probably...
+R[Character 2]: What does this engine have to offer?
+L[Character 1]: Yes! That's what I was going to say.
+L[Character 1]: And the answer is... not much yet.
+R[Character 2]: Are you going to keep developing it?
+L[Character 1]: I sure hope so. It would kinda suck if this was it, right?
+R[Character 2]: That's true.

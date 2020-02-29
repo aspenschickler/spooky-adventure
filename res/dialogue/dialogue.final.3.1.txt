@@ -1,0 +1,16 @@
+N[Narrator]: [C] tip-toes around the side of the room and gets behind [D].
+N[B]: You can do this!
+L[C]: I can do this, I can do this... Now or never!
+N[Narrator]: [C] Slips the ring on their finger and feels a shock.
+Sparks fly around them and their arm begins to tingle. They point their finger at [D]...
+L[C]: Hey, [D]! Behind you!
+R[D]: Stand still for one se- huh?
+N[Narrator]: Red lightning shoots out of [C]'s finger, shocking the villain and rendering them unable to move.
+N[Narrator]: They drop to the floor, breathing heavily.
+R[D]: How?! Impossible! Outsmarted by three weaklings!
+L[C]: If you don't want another shock, you'll teleport us back home and never bother us again.
+R[D]: I admit defeat... Here. You earned it.
+N[Narrator]: With the little amount they can move, [D] summons a portal at the entrance of the castle.
+N[Narrator]: On the other side you can see your hometown.
+R[D]: Now get out of my sight. But I WILL be back! Mwahaha!
+L[C]: If you are, we'll be ready! Come on, everyone. Let’s go home.

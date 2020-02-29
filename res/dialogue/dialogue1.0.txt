@@ -1,0 +1,6 @@
+N[Narrator]: You and [C] fall on a hard wooden floor, unsure of what just happened or where you are.
+N[Narrator]: Then you hear a familiar voice call for help.
+R[C]: Don’t worry! We’re on our way!
+L[A]: What is this place? Are we in some kind of haunted mansion?
+R[C]: I don’t know, but we’re all getting out of it and going back home.
+R[C]: Look, there’s [B]! But... who’s that next to him?

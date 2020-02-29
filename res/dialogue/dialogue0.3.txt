@@ -1,0 +1,2 @@
+N[Narrator]: You and [C] jump right in to follow [B].
+N[Narrator]: Wherever they went, they're gonna need your help!

@@ -1,0 +1,5 @@
+R[D]: Impossible! How could you weaklings beat me?
+L[B]: Had enough yet?
+R[D]: I admit defeat... What is your request?
+L[B]: Teleport us back home and never bother us again.
+R[D]: I can agree to the first part. Here. You’ve earned it.

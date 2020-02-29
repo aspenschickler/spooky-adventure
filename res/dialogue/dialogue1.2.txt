@@ -1,0 +1,5 @@
+L[Voice]: Not so fast!
+R[D]: Huh?
+L[Knight]: I thought I told you to never return to this town. As long as I’m here, it is under my protection!
+L[Knight]: Now leave, or do you want to lose another fight?
+R[D]: You kids win this time... but next time we meet, don’t expect someone to save you!

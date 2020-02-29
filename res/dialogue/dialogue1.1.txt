@@ -1,0 +1,7 @@
+R[D]: Mwahaha! You fell right into my trap!
+L[A]: Who are you?
+R[D]: You’ve never heard of me? Allow me to introduce myself.
+R[D]: I’m the one who haunts your dreams, the monster under your bed.
+R[D]: I’m [D], the most powerful in the land, and soon you’ll all be dead!
+L[A]: I don’t think so. We’re leaving!
+R[D]: How? I’m the one who cast the portal that brought you here. Good luck doing that on your own. You’re mine!

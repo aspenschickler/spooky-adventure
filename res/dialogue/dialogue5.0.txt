@@ -1,0 +1,3 @@
+N[Narrator]: After travelling for what felt like hours, you finally arrive in front of the castle.
+N[Narrator]: It’s much bigger in person, and much, much scarier.
+L[A]: Well, we finally made it. Let’s get in there and teach [D] a lesson!

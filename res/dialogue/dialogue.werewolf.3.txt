@@ -1,0 +1,13 @@
+L[A]: Hey, [C].
+R[C]: What is it?
+L[A]: Do you believe in magic?
+R[C]: Now’s not the time for jokes!
+L[A]: No, I’m serious. I hope you do, because we might have to try something crazy.
+N[Narrator]: The werewolf comes closer and closer, cornering you all against the walls of the cave.
+N[Narrator]: It swings at [C], and as they jump back they drop the ring on the ground.
+N[Narrator]: It clinks against the ground, and for a brief moment the werewolf is distracted in its rage. There’s your chance!
+N[Narrator]: You leap towards the ring and slip it onto your finger. In an instant, sparks arise at your fingertips.
+N[Narrator]: Right as the werewolf prepares to attack again, you raise your hand high in the air towards it.
+N[Narrator]: Your whole body tingles and glows with energy, and suddenly you fire a massive red bolt of electricity.
+N[Narrator]: There is a huge flash which makes the entire cave light up.
+N[Narrator]: The next thing you see is the werewolf on the floor, paralyzed.

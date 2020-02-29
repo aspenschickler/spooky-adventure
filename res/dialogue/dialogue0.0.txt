@@ -1,0 +1,8 @@
+NYour name is [A], and today you're celebrating your favorite holiday: Halloween!
+NThe time has come to go trick-or-treating through the neighborhood with your friends [B] and [C].
+L[A]: This has been the best Halloween ever! We scared so many people, and my candy bucket is totally full.
+R[B]: Lucky! Mine is only halfway. I'll race you to the next house!
+L[A]: Like I'll let you win!
+NNarrator: You run down the street and make a left turn, stopping in front of a house at the end of the lane.
+NNarrator: Something immediately feels weird about it...
+NNarrator: It's wooden, crooked, covered in cobwebs, and might as well be abandoned... but the lights are on inside.

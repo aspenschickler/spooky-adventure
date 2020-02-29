@@ -1,0 +1,9 @@
+N[Narrator]: You all exit the house and into a vibrant, festive town. Jack-o-lanterns and cobwebs are outside every window.
+N[Narrator]: Looking up, you find a dark orange sky and an enormous castle on the horizon.
+L[Knight]: I see you noticed the castle. That’s where [D], the Evil One, resides.
+L[Knight]: Since they were the one who brought you here with a portal, the only way to get back is to force them to reverse the spell.
+L[Knight]: To do that, you have to beat them in battle.
+R[A]: That sounds easy, and I am definitely not panicking inside.
+L[Knight]: I’m afraid that’s all I know. Spend some time in town to learn more, then start your quest.
+L[Knight]: Best of luck!
+N[Narrator]: What will you do?

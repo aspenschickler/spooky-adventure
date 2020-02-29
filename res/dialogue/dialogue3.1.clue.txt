@@ -1,0 +1,6 @@
+L[A]: From the looks of it, we have a good chance of getting the power to beat [D] by finding a magic ring.
+L[A]: One was spotted in the forest, but getting it might be dangerous.
+R[C]: Dangerous, schmangerous. If we get our hands on it, we’ll get to come back home and we’ll be heroes!
+N[Narrator]: You all exit the town and stand outside the gate. To your left, you see a dark forest.
+N[Narrator]: To your right, a trail leading to a graveyard.
+N[Narrator]: Which way do you go?

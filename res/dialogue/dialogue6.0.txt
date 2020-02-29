@@ -1,0 +1,7 @@
+L[A]: [D]!
+R[D]: [A]! And you brought your friends [B] and [C] too, I see.
+L[A]: And you brought your scary face!
+R[D]: First of all, how dare you.
+L[A]: We didn’t just come to fight. We came to WIN.
+R[D]: Heh heh heh... I like your attitude. Come on, then. Show me what you’ve got!
+N[Narrator]: What will you do?

@@ -1,0 +1,6 @@
+L[A]: Psst! I'll distract them, you take the ring and attack when he’s not looking.
+N[B]: Gotcha!
+N...
+L[A]: Hey [D]! You know what? I bet you can't hit me when I'm running!
+R[D]: No, stop that! Stand and fight!
+L[A]: Get better aim!

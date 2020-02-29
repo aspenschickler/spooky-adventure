@@ -1,0 +1,6 @@
+N[Narrator]: The wind howls as you enter the forest the forest. The further in you walk, the darker it gets.
+N[Narrator]: Eventually, the only thing illuminating your path is the light of the full moon.
+L[C]: Ouch! You keep stepping on my foot!
+R[B]: Don’t blame me, I can barely see a thing!
+L[C]: Do we even know where to go?
+R[B]: We really should have brought a map. I hope we find the ring before monsters find us...

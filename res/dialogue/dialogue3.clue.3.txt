@@ -1,0 +1,8 @@
+R[Ghost]: Good taste! I recommend Getting Lost to Find Treasure by Skell E. Ton.
+R[Ghost]: You can find it on shelf C.
+L[A]: Thanks!
+L[A]: ...
+N[Narrator]: You read a confusing story about a wizard who goes on many adventures but always seems to get lost.
+N[Narrator]: However, one of these adventures sounds interesting.
+N[Narrator]: While journeying through the dark forest, he saw a rare magic ring hiding inside a cave.
+N[Narrator]: But after hearing howling, he was forced to run away.

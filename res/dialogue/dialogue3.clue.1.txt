@@ -1,0 +1,7 @@
+R[Ghost]: Good taste! I recommend Terrifying Monsters and How to Discover Them by Dr. Acula.
+R[Ghost]: You can find it on shelf A.
+L[A]: Thanks!
+L[A]: ...
+N[Narrator]: You read a book full of scary pictures of dangerous monsters that inhabit this land.
+N[Narrator]: Among them is the Werewolf, a man-turned-monster who lurks through the dark forest during the full moon.
+N[Narrator]: Some say they have spotted it protecting a magic ring inside its cave, yet none have ever gotten close enough to steal it.

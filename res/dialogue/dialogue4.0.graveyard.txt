@@ -1,0 +1,21 @@
+N[Narrator]: You all enter the graveyard.
+N[Narrator]: The only thing lighting your way is the moonlight, and a chilly breeze flows through the area.
+N[Narrator]: Under any other circumstances you wouldn’t even come near this place, but you have a ring to find.
+L[A]: There are so many graves here! Which is the one with the treasure?
+R[B]: Hmm... if I were a rich, dead wizard, where would I be?
+L[A]: How about that huge grave in the center?
+R[B]: That’s gotta be it!
+N[Narrator]: You all go to the center of the graveyard and observe and find a tombstone twice your size with a coffin in front of it.
+N[Narrator]: Next to it is a digging spot. Luckily, you find an shovel near the fence and get to digging.
+L[A]: The treasure chest! Help me pick it up.
+L[A]: Jeez, how much treasure did this guy have? Necklaces, crowns, jewels, it never ends!
+R[B]: Wait, I think that’s the ring at the bottom of the chest!
+L[A]: You mean this one?
+R[B]: Golden, glowing, and a ruby at the center. We found it!
+L[A]: Hooray! Sorry Mr. Dead Guy, we promise to return it!
+R[B]: It’s not like he can hear you, you know.
+N[Narrator]: You take the ring and hold it in your hand. After you place the treasure chest back in its pit, you prepare to leave...
+N[Narrator]: But then you hear something. Or someone.
+L[A]: What was that?
+R[B]: It’s a graveyard, I bet you’re just imagining things.
+R[B]: With that said, let’s walk faster.

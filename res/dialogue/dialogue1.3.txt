@@ -1,0 +1,3 @@
+L[Knight]: Are you three okay?
+R[A]: We’re doing fine. More importantly, where are we?
+L[Knight]: It’s a long story... let’s talk more outside.

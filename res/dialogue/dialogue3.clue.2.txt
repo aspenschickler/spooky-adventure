@@ -1,0 +1,7 @@
+R[Ghost]: Good taste! I recommend The Basics of Magic for Warlocks, Commoners, and People Like You.
+R[Ghost]: It’s one of Frank N. Stein’s best works. You can find it on shelf B.
+L[A]: Thanks!
+L[A]: ...
+N[Narrator]: You read a long, boring textbook on the history of magic and how people use it.
+N[Narrator]: Apparently, one of the ways to get powers is to use a magic ring, but they are hard to find.
+N[Narrator]: They are often found in forests and caves, guarded by a fierce monster.
